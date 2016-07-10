@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenuDemo</string>
+    <string name="item1">Red</string>
+    <string name="item2">Orange</string>
+    <string name="item3">Yellow</string>
+    <string name="item4">Green</string>
+    <string name="parentItem1">Text Color</string>
+
+</resources>
